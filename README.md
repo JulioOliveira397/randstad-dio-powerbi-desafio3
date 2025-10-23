@@ -1,25 +1,21 @@
-# 📊 Desafio 2 - Power BI | Randstad & DIO
+⚠️ Justificativa de Pendência — Desafio DIO: Integração MySQL Azure + Power BI
+🧩 Contexto
+Este repositório foi criado para documentar o progresso e entrega do desafio de projeto “Integrando Dados com MySQL Azure e Transformando com Power BI”, proposto pela DIO.
 
-Este repositório contém o segundo projeto da trilha de Análise de Dados da DIO em parceria com a Randstad. O desafio consistiu em criar um relatório mais elaborado e interativo no Power BI, utilizando a base `Financial Sample.xlsx`.
+🚧 Status Atual
+Infelizmente, a atividade final de transformação e modelagem dos dados no Power BI ainda não foi concluída devido a um problema técnico na minha máquina local, que afetou o funcionamento do Power BI e a conexão com o banco de dados MySQL hospedado na Azure.
 
----
+🛠️ Problema Identificado
+Durante a etapa de integração e transformação dos dados, minha máquina apresentou instabilidades que impediram:
 
-## ✅ O que foi feito
+A execução fluida do Power BI Desktop
 
-O relatório foi dividido em duas páginas principais:
+A conexão estável com o banco de dados MySQL na Azure
 
-### 🔹 Página 1 — Visão Geral de Produtos e Segmentos
-- Indicadores de vendas e receita
-- Gráfico de barras: contagem de segmentos por produto
-- Gráfico de linha: contagem de clientes por produto
-- Segmentadores por produto, segmento, cliente e data
-- Botão de navegação para a página de detalhes
+A finalização das etapas de mesclagem, limpeza e modelagem dos dados
 
-### 🔹 Página 2 — Detalhamento por País e Lucro
-- Gráfico de dispersão: relação entre lucro e vendas
-- Tabela detalhada com país, produto, descontos e lucro
-- Segmentadores por país e produto
-- Botão de retorno para a página principal
+📅 Compromisso
+Já estou trabalhando para resolver o problema técnico e retomar o projeto o quanto antes. Assim que o ambiente estiver normalizado, a atividade será concluída e atualizada neste repositório, com todos os arquivos e documentação necessários.
 
 ---
 
